@@ -1,6 +1,5 @@
 # Desafio Target - Vaga de Estágio
 ## Instalação
-Observe o trecho de código abaixo:
 
 Certifique-se de ter o Node.js instalado em sua máquina antes de prosseguir.
 
